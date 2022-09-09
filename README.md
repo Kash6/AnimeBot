@@ -6,9 +6,10 @@ the style of cartoon images to real-life photographic images by
 implementing previous work done by CartoonGAN. We trained
 a Generative Adversial Network(GAN) to convert real life pictures/faces to anime faces.
 
-## Paper can be found on the scientific journal NeuroQuantology which is included in the Scopus database. Based on 2020, SJR is 0.191. Publisher country is Turkey. The main subject areas of published articles are Developmental Neuroscience, Cognitive Neuroscience, Atomic and Molecular Physics, and Optics.
+## Publishing
+Our paper can be found on the scientific journal NeuroQuantology which is included in the Scopus database. Based on 2020, SJR is 0.191. Publisher country is Turkey. The main subject areas of published articles are Developmental Neuroscience, Cognitive Neuroscience, Atomic and Molecular Physics, and Optics.
 
-DOI: 10.14704/nq.2022.20.8.NQ44920
+DOI: [10.14704/nq.2022.20.8.NQ44920](url)
 
 ## Predict
 
