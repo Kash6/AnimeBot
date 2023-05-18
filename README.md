@@ -25,7 +25,7 @@ python predict.py -i C:/folder/input_image.png -o ./output_folder/output_image.p
 | Image # | Original | Our CartoonGan implementation |
 |:-------:|----------|-------------------------------|
 |1| ![image](https://user-images.githubusercontent.com/62140058/120894245-24ecd800-c635-11eb-916c-c0a97eb43ae8.png) | ![image](https://user-images.githubusercontent.com/62140058/120894298-4cdc3b80-c635-11eb-9856-f8153a6c9dda.png) |
-|2| ![image](https://user-images.githubusercontent.com/62140058/120894316-68474680-c635-11eb-8150-6d1213ce7224.png) | ![image](https://user-images.githubusercontent.com/62140058/120894308-5c5b8480-c635-11eb-80fa-be176dc13ce7.png) |
+|2| ![image](https://user-images.githubusercontent.com/62140058/120894308-5c5b8480-c635-11eb-80fa-be176dc13ce7.png) | ![image](https://user-images.githubusercontent.com/62140058/120894316-68474680-c635-11eb-8150-6d1213ce7224.png) |
 |3| ![image](https://user-images.githubusercontent.com/62140058/120894324-72694500-c635-11eb-969a-3f013f93c457.png) | ![image](https://user-images.githubusercontent.com/62140058/120894336-7d23da00-c635-11eb-85d6-f754ff386991.png) |
 |4| ![image](https://user-images.githubusercontent.com/62140058/120894359-9a58a880-c635-11eb-964c-44857eea25ed.png)  | ![image](https://user-images.githubusercontent.com/62140058/120894368-a2184d00-c635-11eb-8fe3-1dde6e6506ea.png) |
 |5| ![image](https://user-images.githubusercontent.com/62140058/120894393-c116df00-c635-11eb-971b-9e5dc755f317.png)  | ![image](https://user-images.githubusercontent.com/62140058/120894396-c5db9300-c635-11eb-878c-c6ab2df9c9f9.png) |
